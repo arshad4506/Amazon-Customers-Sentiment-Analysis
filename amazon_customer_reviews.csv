@@ -1,0 +1,31 @@
+Review_ID,Product,Rating,Review,Sentiment
+1,Wireless Earbuds,5,Excellent product and very good sound quality,Positive
+2,Wireless Earbuds,4,Good earbuds and battery life is impressive,Positive
+3,Smart Watch,5,Amazing smartwatch with useful features,Positive
+4,Smart Watch,2,The watch stopped working after a few days,Negative
+5,Laptop Stand,4,Very useful and strong laptop stand,Positive
+6,Laptop Stand,3,The stand is okay but could be stronger,Neutral
+7,Bluetooth Speaker,5,Excellent speaker with clear sound,Positive
+8,Bluetooth Speaker,1,Very poor sound quality and stopped working,Negative
+9,Mobile Charger,5,Fast charging and excellent performance,Positive
+10,Mobile Charger,2,Charging is very slow and disappointing,Negative
+11,Coffee Maker,4,Makes great coffee and easy to use,Positive
+12,Coffee Maker,3,The coffee maker is average,Neutral
+13,Backpack,5,Very comfortable backpack with enough space,Positive
+14,Backpack,2,The bag quality is poor and the zip broke,Negative
+15,Keyboard,4,Keyboard feels smooth and works perfectly,Positive
+16,Keyboard,5,I really love this keyboard,Positive
+17,Mouse,4,Good mouse with accurate movement,Positive
+18,Mouse,1,Mouse stopped working suddenly,Negative
+19,Power Bank,5,Excellent power bank with long battery life,Positive
+20,Power Bank,2,Battery drains very quickly,Negative
+21,Headphones,5,Amazing headphones with excellent sound,Positive
+22,Headphones,2,Sound quality is terrible and uncomfortable,Negative
+23,Water Bottle,4,Good quality water bottle and easy to carry,Positive
+24,Water Bottle,3,The bottle is okay but not very impressive,Neutral
+25,Phone Case,5,Excellent phone case and perfect fit,Positive
+26,Phone Case,1,The case broke after one week,Negative
+27,USB Cable,4,Good USB cable and fast charging,Positive
+28,USB Cable,2,Cable stopped working after a few days,Negative
+29,Desk Lamp,5,Excellent desk lamp with bright light,Positive
+30,Desk Lamp,3,The lamp is okay but brightness could be better,Neutral

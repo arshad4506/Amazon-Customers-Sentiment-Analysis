@@ -1,0 +1,11 @@
+Customer_ID,Customer_Name,Age,Gender,City,Product_Category,Product,Purchase_Amount,Rating,Review_Sentiment
+1,Arshad,22,Male,Hyderabad,Electronics,Laptop,55000,5,Positive
+2,Rahul,25,Male,Bangalore,Clothing,T-Shirt,1200,4,Positive
+3,Priya,28,Female,Chennai,Beauty,Face Cream,850,5,Positive
+4,Kiran,31,Male,Hyderabad,Electronics,Mobile Phone,25000,4,Positive
+5,Anjali,24,Female,Mumbai,Books,Novel,600,3,Neutral
+6,Vikram,35,Male,Delhi,Clothing,Jeans,2200,4,Positive
+7,Sneha,29,Female,Pune,Home,Sofa,18000,5,Positive
+8,Ravi,40,Male,Hyderabad,Electronics,Headphones,3500,4,Positive
+9,Neha,27,Female,Bangalore,Books,Textbook,900,3,Neutral
+10,Aman,33,Male,Chennai,Home,Table,7500,5,Positive
